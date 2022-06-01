@@ -1,6 +1,8 @@
-# minihydrov1
+# Mini Smart Farm Hydroponics
 
-A new Flutter project.
+### Senior Project
+
+Mobile application for control the smart farm and monitor the humidity, temperature, brightness value. (Flutter)
 
 ## Getting Started
 
