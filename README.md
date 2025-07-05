@@ -1,5 +1,5 @@
 # Mini Smart Farm Hydroponics
-
+![Alt text](images/dash.png) ![Alt text](images/dash_date.png)
 ### Senior Project
 
 Mobile application for control the smart farm and monitor the humidity, temperature, brightness value. (Flutter)
