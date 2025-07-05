@@ -1,6 +1,6 @@
 # Mini Smart Farm Hydroponics
 
-<img src="/assets/images/dash.jpg" /> <img src="/assets/images/dash_date.jpg" />
+<img src="/assets/images/dash.jpg" width="60" height="180" /> <img src="/assets/images/dash_date.jpg" width="60" height="180" />
 
 ### Senior Project
 
